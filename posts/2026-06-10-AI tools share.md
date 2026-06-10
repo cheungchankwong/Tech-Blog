@@ -1,4 +1,4 @@
-如何使用Anthropic Claude Code in HK 
+如何使用Anthropic Claude Code in HongKong
 
 1 注册账号
 
@@ -7,7 +7,6 @@
 ② Apple ID：创建一个美区Apple ID--可以先创建一个中国/香港的appleid,然后记得填写自己常用的手机号码（测试过香港及内地的号码完全没问题）然后切换到美国去，使用【地址生成器】填写美国地址等信息即可。
 
 ③ VPN：购置VPN 并且注册账号 （CC is unavailable in HK)
-
 2 安全使用
 -① VPN及节点控制：打开VPN建议选择 日本/新加坡/美国 后stick in 在一个节点，不要频繁飘节点；
 -② 登录Web端 claude code：使用注册好的CC账户登录网页版然后在个人设置-隐私那里关闭Location metadata 和 Help improve Claude；
