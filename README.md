@@ -1,2 +1,2 @@
 # Tech-Blog
-my technology blogs
+This is Kevin's technology blogs.
